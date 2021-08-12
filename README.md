@@ -4,7 +4,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱**Data Structures**? I like it
+- 🌱**Data Structures**? I like it!!
 
 
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **tranminhhuy30042001@gmail.com**
 
-- ⚡ Fun fact **like to meet bugs one way legit .**
+- ⚡ Fun fact **like to meet bugs one way legit (not joke) .**
 
 ## Latest Projects 📚
 None
