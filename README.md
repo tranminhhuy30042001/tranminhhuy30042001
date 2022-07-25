@@ -39,14 +39,11 @@ None
 
 <p align="left"> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTilp2VCY7Qyb35DJYE-dzO2eZ8NBP5CUkRHQ&usqp=CAU"/> </a> 
     
     
  </p>
-<p align="left"> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    
-    
- </p>
+
  
  ## Version control 💣
 <p align="left">
