@@ -43,7 +43,7 @@ None
  </p>
 
 <p align="left"> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png"/> </a> 
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png" width="44px"/> </a> 
     
  </p>
  
