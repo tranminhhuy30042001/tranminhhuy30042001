@@ -19,7 +19,11 @@
 - ⚡ Fun fact **like to meet bugs one way legit (not joke) .**
 
 ## Latest Projects 📚
+App android bán quần áo
+</br>
 https://github.com/tranminhhuy30042001/android_appquanao
+</br>
+Tạo Rest Controller bằng Spring boot
 </br>
 https://github.com/tranminhhuy30042001/SpringBootToFirebase
 ## 🚀 Languages:
