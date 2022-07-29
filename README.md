@@ -26,6 +26,10 @@ https://github.com/tranminhhuy30042001/android_appquanao
 Tạo API bằng Spring boot
 </br>
 https://github.com/tranminhhuy30042001/SpringBootToFirebase
+</br>
+Giải thuật FCFS và SJF
+</br>
+https://github.com/tranminhhuy30042001/FCFS-and-SJF
 ## 🚀 Languages:
 
 <p align="left"> 
