@@ -23,7 +23,7 @@ App android bán quần áo
 </br>
 https://github.com/tranminhhuy30042001/android_appquanao
 </br>
-Tạo API bằng Spring boot
+API bằng Spring boot
 </br>
 https://github.com/tranminhhuy30042001/SpringBootToFirebase
 </br>
