@@ -20,7 +20,9 @@
 
 ## Latest Projects 📚
 Twitter with rails
+<br/>
 https://github.com/tranminhhuy30042001/twitterClone
+<br/>
 App android sell clothing
 </br>
 https://github.com/tranminhhuy30042001/android_appquanao
