@@ -39,8 +39,8 @@ https://github.com/tranminhhuy30042001/tester_unit_junit4_android
 ## 🚀 Languages:
 
 <p align="left"> 
-    <a href="https://rubyonrails.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width="44px";/> </a>
-    <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/rails-3521664-2945108.png  width="44px";"/> </a>
+    <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width="44px";/> </a>
+    <a href="https://rubyonrails.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/rails-3521664-2945108.png"  width="44px";"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
