@@ -75,12 +75,9 @@ https://github.com/tranminhhuy30042001/tester_unit_junit4_android
 ## Tool 🐳
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="44px"/> </a> 
-</p>
-<p align="left">
-    <a style="padding-right:8px;" href="https://www.investopedia.com/terms/v/visual-basic-for-applications-vba.asp" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png"width="44px";/> </a>
+        <a style="padding-right:8px;" href="https://www.investopedia.com/terms/v/visual-basic-for-applications-vba.asp" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png"width="44px";/> </a>
 
 </p>
-  
 
 ## Connect with me:
 
