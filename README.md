@@ -59,6 +59,7 @@ https://github.com/tranminhhuy30042001/tester_unit_junit4_android
 
 <p align="left"> 
     <a href="https://rubyonrails.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/rails-3521664-2945108.png"  width="44px";"/> </a>
+    <a href="https://www.electronjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg"  width="44px";"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://pivotal.gallerycdn.vsassets.io/extensions/pivotal/vscode-spring-boot/1.36.0/1655508527662/Microsoft.VisualStudio.Services.Icons.Default" width="44px"/> </a> 
     <a href="https://bulma.io/#:~:text=Bulma%20is%20a%20free%2C%20open,to%20build%20responsive%20web%20interfaces." target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr48t03Dm8_e1Oyl3zpdRT7jtZBZ8ZBdhXnw&usqp=CAU" width="44px"/> </a> 
