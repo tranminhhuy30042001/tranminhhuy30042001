@@ -22,7 +22,7 @@ Twitter with rails
 <br/>
 https://github.com/tranminhhuy30042001/twitterClone
 <br/>
-review Twitter web but loss some feature when i deploy in heroku:))
+Source only the website die since heroku pay fees :))
 <br/>
 https://twitterzx.herokuapp.com/
 <br/>
