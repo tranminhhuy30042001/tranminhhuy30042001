@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **tranminhhuy30042001@gmail.com**
 
-- ⚡ Fun fact **like to meet bugs one way legit (not joke) .**
 
 ## Latest Projects 📚
 Twitter with rails
@@ -46,7 +45,6 @@ https://github.com/tranminhhuy30042001/tester_unit_junit4_android
 
 <p align="left"> 
     <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width="44px";/> </a>
-   <a href="https://rubyonrails.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/rails-3521664-2945108.png"  width="44px";"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -60,6 +58,7 @@ https://github.com/tranminhhuy30042001/tester_unit_junit4_android
 ## Framworks 💦
 
 <p align="left"> 
+    <a href="https://rubyonrails.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/rails-3521664-2945108.png"  width="44px";"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://pivotal.gallerycdn.vsassets.io/extensions/pivotal/vscode-spring-boot/1.36.0/1655508527662/Microsoft.VisualStudio.Services.Icons.Default" width="44px"/> </a> 
     <a href="https://bulma.io/#:~:text=Bulma%20is%20a%20free%2C%20open,to%20build%20responsive%20web%20interfaces." target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr48t03Dm8_e1Oyl3zpdRT7jtZBZ8ZBdhXnw&usqp=CAU" width="44px"/> </a> 
