@@ -17,7 +17,7 @@
 
 <p align="left"> 
     <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width="44px";/> </a>
-<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width="44px";/> </a>
+
 ## Frameworks 💦
 
 <p align="left"> 
