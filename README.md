@@ -6,41 +6,13 @@
 
 
 ## 🙋‍♂️ About Me
-
-
-- 🌱**Data Structures**? I like it!!
-
-
-
-- 🍩 All of my projects are available at **[My Portfolio](https://...com)**
+- 2 year experience develop
 
 - 📫 How to reach me **tranminhhuy30042001@gmail.com**
 
 
 ## Latest Projects 📚
-Twitter with rails
-<br/>
-https://github.com/tranminhhuy30042001/twitterClone
-<br/>
-Source only the website die since heroku pay fees :))
-<br/>
-https://twitterzx.herokuapp.com/
-<br/>
-App android sell clothing
-</br>
-https://github.com/tranminhhuy30042001/android_appquanao
-</br>
-API with SpringBoot
-</br>
-https://github.com/tranminhhuy30042001/SpringBootToFirebase
-</br>
-FCFS AND SJF
-</br>
-https://github.com/tranminhhuy30042001/FCFS-and-SJF
-</br>
-Testing Android with unit and junit4
-</br>
-https://github.com/tranminhhuy30042001/tester_unit_junit4_android
+
 ## 🚀 Languages:
 
 <p align="left"> 
@@ -57,11 +29,6 @@ https://github.com/tranminhhuy30042001/tester_unit_junit4_android
     <a href="https://www.electronjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg"  width="44px";"/> </a>
  </p>
 
- 
- ## Version control 💣
-<p align="left">
-    <a href="https://github.com/" target="_blank"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="44px"/> </a> 
-</p>
 
 
 
