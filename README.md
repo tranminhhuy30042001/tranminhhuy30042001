@@ -17,11 +17,7 @@
 
 <p align="left"> 
     <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width="44px";/> </a>
-  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-<a style="padding-right:8px;" href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"><img src="https://img.icons8.com/ios/50/000000/sql.png"width="44px";/> </a> 
-</p>
-
+<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width="44px";/> </a>
 ## Frameworks 💦
 
 <p align="left"> 
