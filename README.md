@@ -19,7 +19,7 @@
     <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width="44px";/> </a>
     <a href="https://nodejs.org/en/about/branding" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256" width="44px";/> </a>
 <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="44px";/> </a>
-<a href="#" target="_blank"> <img src="https://banner2.cleanpng.com/20180421/vdq/avee3ca8b.webp" width="44px";/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" width="44px";/> </a>
 
 ## Frameworks 💦
 
