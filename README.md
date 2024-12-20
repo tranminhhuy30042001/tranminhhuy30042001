@@ -17,6 +17,7 @@
 
 <p align="left"> 
     <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width="44px";/> </a>
+    <a href="https://nodejs.org/en/about/branding" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256" width="44px";/> </a>
 
 ## Frameworks 💦
 
