@@ -6,12 +6,9 @@
 
 
 ## 🙋‍♂️ About Me
-- 2 year experience develop
 
 - 📫 How to reach me **tranminhhuy30042001@gmail.com**
 
-
-## Latest Projects 📚
 
 ## 🚀 Languages:
 
